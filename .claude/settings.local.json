@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"D:\\\\AgriSmartAI-main\" -type f ! -path \"*/\\\\.*\" ! -path \"*/.git/*\")",
+      "Bash(Get-ChildItem -Recurse \"D:\\\\AgriSmartAI-main\\\\frontend\\\\mobile_app\\\\android\")",
+      "Bash(Select-Object FullName, PSIsContainer)",
+      "Bash(Format-Table -AutoSize)",
+      "Bash(Get-ChildItem -Recurse \"D:\\\\AgriSmartAI-main\\\\frontend\\\\mobile_app\" -Depth 3)",
+      "PowerShell(Get-ChildItem -Recurse \"D:\\\\AgriSmartAI-main\" -File | Where-Object { $_.Extension -in \".dart\",\".py\",\".yaml\",\".json\",\".xml\",\".kt\",\".kts\",\".sql\",\".ps1\" } | Select-Object FullName | Sort-Object FullName)"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "keywords": ["bacterial leaf blight", "blb", "blight", "yellow leaves", "wilting"],
+    "answer": "Bacterial Leaf Blight (BLB) causes yellow to white lesions starting from leaf tips and margins. It spreads rapidly in warm, humid conditions. Treatment: Apply copper-based bactericides (e.g., Copper Hydroxide). Remove and destroy infected plant material. Improve field drainage to reduce moisture. Avoid excessive nitrogen fertilizer. Use resistant varieties like IR64 or PSB Rc18 for future planting."
+  },
+  {
+    "keywords": ["brown spot", "brown", "spots", "lesions", "circular spots"],
+    "answer": "Brown Spot causes brown circular to oval lesions on rice leaves, sheaths, and grains. It is often associated with nutrient-deficient soils. Treatment: Apply fungicides such as Mancozeb or Propiconazole. Improve soil fertility with balanced NPK fertilizers — especially potassium. Ensure proper water management. Avoid drought stress during the growing season."
+  },
+  {
+    "keywords": ["leaf blast", "blast", "neck blast", "gray lesions", "diamond lesions"],
+    "answer": "Leaf Blast is caused by the fungus Magnaporthe oryzae and appears as gray to white diamond-shaped lesions with brown borders. It is most severe during cool, humid nights. Treatment: Apply tricyclazole or isoprothiolane fungicides immediately at first sign. Avoid excessive nitrogen (limits susceptibility). Use blast-resistant varieties. Monitor regularly during tillering and panicle initiation stages."
+  },
+  {
+    "keywords": ["sheath blight", "sheath", "white lesions", "mycelium"],
+    "answer": "Sheath Blight is caused by Rhizoctonia solani and appears as white to gray oval lesions on the leaf sheath. It thrives in warm, humid conditions with dense plant populations. Treatment: Apply fungicides like validamycin or hexaconazole. Reduce plant density and improve air circulation. Drain field periodically. Remove plant debris after harvest to break disease cycle."
+  },
+  {
+    "keywords": ["tungro", "virus", "yellow orange", "stunted", "leafhopper"],
+    "answer": "Tungro Virus causes yellow-orange leaf discoloration and severe stunting. It is spread by the green leafhopper vector. There is no direct cure for infected plants. Management: Remove and destroy infected plants immediately. Control green leafhopper population using insecticides (e.g., imidacloprid). Plant tungro-resistant varieties like IR36 or NSIC Rc222. Synchronize planting with neighboring farms to break the vector cycle."
+  },
+  {
+    "keywords": ["healthy", "normal", "good", "no disease", "green"],
+    "answer": "Your rice crop appears healthy! To maintain good crop health: Apply balanced NPK fertilizers according to soil test recommendations. Maintain proper water levels — 2-5 cm during vegetative stage. Monitor weekly for early signs of pests or disease. Practice crop rotation. Remove weeds that may harbor pests. Report any unusual symptoms to your local DA technician early."
+  },
+  {
+    "keywords": ["fertilizer", "fertilize", "nitrogen", "npk", "urea", "compost"],
+    "answer": "For rice in New Bataan area: Apply basal fertilizer (14-14-14 or 16-20-0) at planting, 2-3 bags per hectare. Top dress with urea (46-0-0) at 21 and 45 days after transplanting. Potash (0-0-60) helps with disease resistance — apply at panicle initiation. Avoid excessive nitrogen as it increases blast and blight susceptibility. Consider foliar fertilizers during reproductive stage for better grain filling."
+  },
+  {
+    "keywords": ["water", "irrigation", "flood", "drain", "moisture"],
+    "answer": "Proper water management is critical for rice health: Maintain 2-5 cm of standing water during vegetative and reproductive stages. Drain the field 10-14 days before harvest for better soil aeration. Practice alternate wetting and drying (AWD) to save water and reduce methane emissions. Avoid prolonged flooding which promotes sheath blight. Ensure proper drainage to reduce bacterial blight risk."
+  },
+  {
+    "keywords": ["pesticide", "insecticide", "pest", "insect", "bug", "spray"],
+    "answer": "Integrated Pest Management (IPM) approach: Scout fields regularly (twice a week) for pest thresholds. Common pests in Davao de Oro: stem borers, brown plant hoppers, and leafhoppers. Use biological controls (Trichogramma for stem borers) as first option. Chemical controls: chlorpyrifos for stem borers, imidacloprid for leafhoppers. Always follow label directions and observe re-entry intervals. Contact your local DA technician for proper IPM guidance."
+  },
+  {
+    "keywords": ["harvest", "when to harvest", "maturity", "panicle", "grain"],
+    "answer": "Harvest rice at the right time for best quality: Harvest when 80-85% of the panicle grains have turned golden yellow. This is typically 30-35 days after heading. Grain moisture content should be 20-25% at harvest. Delay harvest leads to shattering and quality loss. Use the chalk method: cut a grain — if starchy content is minimal and hard, it's ready. Contact your local DA office for post-harvest support."
+  },
+  {
+    "keywords": ["da", "department of agriculture", "technician", "contact", "help", "report"],
+    "answer": "To contact the Department of Agriculture in New Bataan, Davao de Oro: Visit the Municipal Agriculture Office (MAO) of New Bataan. You can also reach the Davao de Oro Provincial Agriculture Office. For disease outbreaks, report immediately to your barangay agricultural technician (BAT). They can provide free field assessment, subsidized inputs, and technical assistance. Keep your farm records updated for faster assistance."
+  },
+  {
+    "keywords": ["variety", "seed", "resistant", "hybrid", "inbred"],
+    "answer": "Recommended rice varieties for Davao de Oro: Inbred: NSIC Rc222 (Tubigan 18) — multiple disease resistance. PSB Rc18 (Ala) — blast resistant. Hybrid: Mestizo varieties for higher yield potential. Choose varieties based on: season (wet/dry), field conditions (upland/lowland), and disease pressure in your area. Certified seeds are available at local DA offices and accredited seed dealers. Contact your BAT for variety recommendations specific to your barangay."
+  },
+  {
+    "keywords": ["weather", "climate", "rain", "temperature", "forecast"],
+    "answer": "Weather impacts on rice in New Bataan: Wet season (June-November): Higher risk of blast, sheath blight, and bacterial blight. Increase monitoring frequency. Dry season (December-May): Watch for tungro during leafhopper migration. Ensure irrigation availability. High temperature (>35°C) during flowering causes spikelet sterility — avoid flowering during peak summer heat. Monitor PAGASA forecasts and coordinate planting schedule with your BAT."
+  },
+  {
+    "keywords": ["agrismart", "app", "how to use", "scan", "camera", "detect"],
+    "answer": "How to use AgriSmartAI: 1. Tap 'Scan Leaf' on the home screen. 2. Point your camera at a rice leaf showing symptoms. 3. Tap the capture button — the AI will analyze the image. 4. View the disease detection result with treatment recommendations. 5. Tap 'Report to DA' to send the result to your local agricultural technician. 6. Check your notifications for detection history. The app works best in good lighting with a clear view of the affected leaf."
+  }
+]
